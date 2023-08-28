@@ -27,6 +27,13 @@
 </h2>
 <div align="center">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/3a537f469a60df6afba46809385ecc7c0691d22e/images/svg/java.svg" height=55 hspace=10>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/3a537f469a60df6afba46809385ecc7c0691d22e/images/svg/python.svg" height=55 hspace=10>
+     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/3a537f469a60df6afba46809385ecc7c0691d22e/images/svg/ruby.svg" height=55 hspace=10>
+     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/3a537f469a60df6afba46809385ecc7c0691d22e/images/svg/css3.svg" height=55 hspace=10>
+    <img src="https://avatars.githubusercontent.com/u/4223" height=55 hspace=10>
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" height=55 hspace=10>
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height=55 hspace=10>
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height=55 hspace=10>
 </div>
 </br>
 <div align="center">
